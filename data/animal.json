@@ -1,0 +1,16 @@
+{
+    "namespace": "App\\Common",
+    "className": "Animal",
+    "fields": [
+        {
+            "name": "name",
+            "type": "string",
+            "docs": "The animal's name."
+        },
+        {
+            "name": "maxAge",
+            "type": "int",
+            "docs": "The animal's max age."
+        }
+    ]
+}
